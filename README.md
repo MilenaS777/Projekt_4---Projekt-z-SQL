@@ -13,31 +13,23 @@ dalších evropských států ve stejném období, jako primární přehled pro 
 ## Datové sady, které je možné použít pro získání vhodného datového podkladu:
 
 ### Primární tabulky:
-`#czechia_payroll` – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
-`rgb(9, 105, 218)`
-`#czechia_payroll` – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
-`#_czechia_payroll_calculation_` – Číselník kalkulací v tabulce mezd.
 
-_czechia_payroll_industry_branch_ – Číselník odvětví v tabulce mezd.
-
-_czechia_payroll_unit_ – Číselník jednotek hodnot v tabulce mezd.
-
-_czechia_payroll_value_type_ – Číselník typů hodnot v tabulce mezd.
-
-_czechia_price_ – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
-
+_czechia_payroll_ – Informace o mzdách v různých odvětvích za několikaleté období.  Datová sada pochází z Portálu otevřených dat ČR.
+_czechia_payroll_calculation_ – Číselník kalkulací v tabulce mezd.
+_czechia_payroll_industry_branch_ – Číselník odvětví v tabulce mezd.  
+_czechia_payroll_unit_ – Číselník jednotek hodnot v tabulce mezd.  
+_czechia_payroll_value_type_ – Číselník typů hodnot v tabulce mezd.   
+_czechia_price_ – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.   
 _czechia_price_category_ – Číselník kategorií potravin, které se vyskytují v našem přehledu.
 
 ### Číselníky sdílených informací o ČR:
 
-_czechia_region_ – Číselník krajů České republiky dle normy CZ-NUTS 2.
-
+_czechia_region_ – Číselník krajů České republiky dle normy CZ-NUTS 2.     
 _czechia_district_ – Číselník okresů České republiky dle normy LAU.
 
 ### Dodatečné tabulky:
 
-_countries_ - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.
-
+_countries_ - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.   
 _economies_ - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
 ### Výzkumné otázky:
@@ -53,7 +45,7 @@ _economies_ - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 ### Výstup projektu:
 
 Pomozte kolegům s daným úkolem. Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají získat. 
-Tabulky pojmenujte:
+**Tabulky pojmenujte:**
  **_t_{jmeno}_{prijmeni}_project_SQL_primary_final_**
 (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky)
  a **_t_{jmeno}_{prijmeni}_project_SQL_secondary_final_** (pro dodatečná data o dalších evropských státech).
