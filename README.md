@@ -1,6 +1,6 @@
 # Projekt_4---Projekt-z-SQL
  
-## Zadání Projektu:
++ ## Zadání Projektu:
 Na vašem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jste se dohodli,
 že se pokusíte odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. 
 Kolegové již vydefinovali základní otázky, na které se pokusí odpovědět a poskytnout tuto informaci tiskovému oddělení. 
@@ -19,10 +19,7 @@ dalších evropských států ve stejném období, jako primární přehled pro 
 @@ text in purple (and bold)@@
 ```
 ### Primární tabulky:
-```diff
-- text in blue
-_czechia_payroll_
-```
+
 _czechia_payroll_ – Informace o mzdách v různých odvětvích za několikaleté období.  Datová sada pochází z Portálu otevřených dat ČR.   
 _czechia_payroll_calculation_ – Číselník kalkulací v tabulce mezd.    
 _czechia_payroll_industry_branch_ – Číselník odvětví v tabulce mezd.    
