@@ -1,6 +1,6 @@
 # Projekt_4---Projekt-z-SQL
  
-## + Zadání Projektu in green:
+## Zadání Projektu:
 Na vašem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jste se dohodli,
 že se pokusíte odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. 
 Kolegové již vydefinovali základní otázky, na které se pokusí odpovědět a poskytnout tuto informaci tiskovému oddělení. 
@@ -11,13 +11,7 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 dalších evropských států ve stejném období, jako primární přehled pro ČR.
 
 ## Datové sady, které je možné použít pro získání vhodného datového podkladu:
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
 ### Primární tabulky:
 
 _czechia_payroll_ – Informace o mzdách v různých odvětvích za několikaleté období.  Datová sada pochází z Portálu otevřených dat ČR.   
