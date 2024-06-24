@@ -11,7 +11,13 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 dalších evropských států ve stejném období, jako primární přehled pro ČR.
 
 ## Datové sady, které je možné použít pro získání vhodného datového podkladu:
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ### Primární tabulky:
 
 _czechia_payroll_ – Informace o mzdách v různých odvětvích za několikaleté období.  Datová sada pochází z Portálu otevřených dat ČR.   
