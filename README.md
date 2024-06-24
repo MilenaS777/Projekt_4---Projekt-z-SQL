@@ -19,7 +19,10 @@ dalších evropských států ve stejném období, jako primární přehled pro 
 @@ text in purple (and bold)@@
 ```
 ### Primární tabulky:
-
+```diff
+- text in blue
+_czechia_payroll_
+```
 _czechia_payroll_ – Informace o mzdách v různých odvětvích za několikaleté období.  Datová sada pochází z Portálu otevřených dat ČR.   
 _czechia_payroll_calculation_ – Číselník kalkulací v tabulce mezd.    
 _czechia_payroll_industry_branch_ – Číselník odvětví v tabulce mezd.    
