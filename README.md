@@ -14,13 +14,13 @@ dalších evropských států ve stejném období, jako primární přehled pro 
 
 ### Primární tabulky:
 
-_czechia_payroll_ – Informace o mzdách v různých odvětvích za několikaleté období.  Datová sada pochází z Portálu otevřených dat ČR.
-_czechia_payroll_calculation_ – Číselník kalkulací v tabulce mezd.
-_czechia_payroll_industry_branch_ – Číselník odvětví v tabulce mezd.  
-_czechia_payroll_unit_ – Číselník jednotek hodnot v tabulce mezd.  
-_czechia_payroll_value_type_ – Číselník typů hodnot v tabulce mezd.   
-_czechia_price_ – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.   
-_czechia_price_category_ – Číselník kategorií potravin, které se vyskytují v našem přehledu.
+_czechia_payroll_ – Informace o mzdách v různých odvětvích za několikaleté období.  Datová sada pochází z Portálu otevřených dat ČR.   
+_czechia_payroll_calculation_ – Číselník kalkulací v tabulce mezd.    
+_czechia_payroll_industry_branch_ – Číselník odvětví v tabulce mezd.    
+_czechia_payroll_unit_ – Číselník jednotek hodnot v tabulce mezd.   
+_czechia_payroll_value_type_ – Číselník typů hodnot v tabulce mezd.    
+_czechia_price_ – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.    
+_czechia_price_category_ – Číselník kategorií potravin, které se vyskytují v našem přehledu.  
 
 ### Číselníky sdílených informací o ČR:
 
@@ -45,12 +45,10 @@ _economies_ - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 ### Výstup projektu:
 
 Pomozte kolegům s daným úkolem. Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají získat.    
-**Tabulky pojmenujte:**
-
+**Tabulky pojmenujte:**     
  **_t_{jmeno}_{prijmeni}_project_SQL_primary_final_**
 (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky)    
- a **_t_{jmeno}_{prijmeni}_project_SQL_secondary_final_** (pro dodatečná data o dalších evropských státech).
-
+ a **_t_{jmeno}_{prijmeni}_project_SQL_secondary_final_** (pro dodatečná data o dalších evropských státech).     
 Dále připravte sadu SQL, které z vámi připravených tabulek získají datový podklad k odpovězení na vytyčené výzkumné otázky. 
 Pozor, otázky/hypotézy mohou vaše výstupy podporovat i vyvracet! Záleží na tom, co říkají data.
 
