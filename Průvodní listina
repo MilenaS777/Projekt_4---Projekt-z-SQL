@@ -1,0 +1,11 @@
+Společné období pro porovnání tabulky č.1 jsou roky 2006 až 1018 (czechia price 2006-2018, czechia_payroll 2000 - 2021)
+
+## Tab.1 vznikne spojením tabulek: czechia_price (informace o cenách vybraných potravin za několikaleté období) na kterou napojím czechia_price_category (názvy potravin), czechia_payroll (informace o mzdách,
+zajímá mě jen value_type_code = 5958 a calculation_code = 200 )
+
+## Tab. 2 vznikne spojením tabulky country s tabulkou country, s výběrem kontinentu "Europe" a s omezením na roky 2006 - 2018.
+
+
+## Otázka 1: **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
+
+
