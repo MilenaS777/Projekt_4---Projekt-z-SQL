@@ -9,7 +9,7 @@ zajímá mě jen value_type_code = 5958 a calculation_code = 200 )
 ## Otázka 1: **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
 
- **Otázka 2:Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
+ ## Otázka 2: **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
    - Za průměrnou výplatu v roce 2006 bylo možné koupit 1313 kg chleba a 1466 l mléka a v roce 2018 potom 1365 kg chleba a 1670 l mléka.
 
@@ -20,4 +20,4 @@ zajímá mě jen value_type_code = 5958 a calculation_code = 200 )
 |2018|Chléb konzumní kmínový|24.24|33091.63|1365 kg|
 |2018|Mléko polotučné pasterované|19.82|33091.63|1670 l|
 
-
+ ## Otázka 3:
