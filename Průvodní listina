@@ -7,6 +7,11 @@ zajímá mě jen value_type_code = 5958 a calculation_code = 200 )
 
 
 ## Otázka 1: **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
+Dotaz pomocí funkce LAG - porovnává současnou průměrnou mzdu s předchozím rokem a vyhodnocnení  pomocí CASE a WNEN / THEN / ELSE.
+
+Kompletní srovnání je zde:
+Odpověď na otázku č.1 - mzdy nestoupají v každém roce a ve všech odvětvích.
+
 
 
  ## Otázka 2: **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
