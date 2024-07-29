@@ -1,4 +1,4 @@
-# Projekt_4---Projekt-z-SQL
+# 4. Projekt z Datové akademie Engeto -  Projekt z SQL
  
 ## Zadání Projektu:
 Na vašem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jste se dohodli,
@@ -31,7 +31,7 @@ _czechia_district_ – Číselník okresů České republiky dle normy LAU.
 _countries_ - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.   
 _economies_ - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
-### Výzkumné otázky:
+## Výzkumné otázky:
 
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?   
 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?   
@@ -41,7 +41,7 @@ _economies_ - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
    projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
 
 
-### Výstup projektu:
+## Výstup projektu:
 
 Pomozte kolegům s daným úkolem. Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají získat.    
 **Tabulky pojmenujte:**     
