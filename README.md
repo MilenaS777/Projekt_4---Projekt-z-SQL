@@ -19,7 +19,8 @@ dalších evropských států ve stejném období, jako primární přehled pro 
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce,
    projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
 
-## Postup vypracování a odpovědi na otázky v průvodní listině. [ ]
+## Postup vypracování a odpovědi na otázky v průvodní listině. 
+
 
 ## Datové sady, které je možné použít pro získání vhodného datového podkladu:
 
