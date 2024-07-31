@@ -1,4 +1,4 @@
-/
+--
 -- Pomocný krok - zjištění společného období pro tabulky czechia_price a czechia_payroll:
 SELECT * FROM czechia_price ORDER BY date_from;
 SELECT * FROM czechia_payroll ORDER BY payroll_year;	
@@ -104,19 +104,6 @@ ORDER BY `year`;
 
 -- otázka 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
-SELECT food_category,
-	   ROUND(AVG(cp.value),2) AS avg_food_price,
-	   ROUND(AVG(cpay.value),2) AS avg_wages,
-	   ROUND(AVG(cpay.value)/AVG(cp.value),0) AS amount_to_buy,
-	   `year`
-FROM t_milena_sedlarova_project_SQL_primary_final pf
-WHERE food_category IN ('Chléb konzumní kmínový','Mléko polotučné pasterované') 
-	  AND `year` IN ('2006','2018')
-GROUP BY `year`,
-		 food_category
-ORDER BY `year`;
-
--- otázka 2 - funguje
 SELECT
 food_category, price_unit, 
 ROUND(AVG(price),2) AS avg_food_price,
